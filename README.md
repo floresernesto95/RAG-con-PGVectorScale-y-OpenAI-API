@@ -1,1 +1,1 @@
-# RAG-con-PGVectorScale-y-OpenAI-API
+# RAG con PGVectorScale y OpenAI API
